@@ -106,7 +106,7 @@ public class Main extends JFrame{
 		// TODO Auto-generated method stub
 		String url = "jdbc:mysql://localhost/mineSweeper_rank";
 		String id = "root";
-		String password = "onlyroot";
+		String password = "root";
 		Connection con = null;
 		
 		try {
